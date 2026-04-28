@@ -1,0 +1,24 @@
+# Environment
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Output reports
+output/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
